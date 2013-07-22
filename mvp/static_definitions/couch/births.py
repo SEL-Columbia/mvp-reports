@@ -61,7 +61,7 @@ ACTIVE_CHILD_CASES_BY_AGE_INDICATORS = dict(
                 title="# Under-5s",
                 max_age_in_days=1825,
                 indicator_key="",
-                fixed_datespan_months=1,
+                fixed_datespan_days=30,
             ),
             neonate_cases_7days=dict(
                 description="No. of Neonate Newborns in the past 7 days",
